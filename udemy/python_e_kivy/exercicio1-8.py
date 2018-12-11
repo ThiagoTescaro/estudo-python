@@ -1,6 +1,6 @@
 #coding: utf-8
 
-#Faça um algoritmo que solicite a nota das 4 provas semestrais do usuário.
+# Faça um algoritmo que solicite a nota das 4 provas semestrais do usuário.
 # Em seguida, calcule e envie para a saída padrão a média:
 
 n1 = float(input("Digite a primeira nota: "))

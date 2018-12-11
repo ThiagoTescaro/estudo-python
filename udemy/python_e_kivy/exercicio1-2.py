@@ -4,5 +4,5 @@
 # "O seu nome é: [nome do usuário]".
 
 nome = input("Digite seu nome: ")
-# A função input() além de digitar um texto na tela, agurado o usuário digitar o valor que será atribuído a variável.
+#A função input() além de digitar um texto na tela, agurado o usuário digitar o valor que será atribuído a variável.
 print("O nome digitado foi %s."%nome)

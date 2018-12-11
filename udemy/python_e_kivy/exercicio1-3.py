@@ -1,5 +1,5 @@
 #coding: utf-8
-#Na linha 1 é utilizado um comentário #coding: utf-8, que permite a acentuação.
+# Na linha 1 é utilizado um comentário #coding: utf-8, que permite a acentuação.
 
 # Faça um algoritmo que solicite o nome e a idade do usuário e então, envie a seguinte frase para o Console:
 # "O seu nome é <nome> e a sua idade é <idade>".
