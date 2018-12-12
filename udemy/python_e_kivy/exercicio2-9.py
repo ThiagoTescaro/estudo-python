@@ -1,6 +1,6 @@
 #coding: utf-8
 
-#Faça um algoritmo que verifica se um determinado valor é um número inteiro.
+#Faça um algoritmo que verifica se um determinado valor é um número inteiro..
 
 num = input("Digite um número: ")
 
